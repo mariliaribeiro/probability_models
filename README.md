@@ -1,2 +1,2 @@
-# porbability_models
+# probability_models
 Contém exercícios relacionados aos modelos de probabilidade
